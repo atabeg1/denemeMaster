@@ -1,11 +1,11 @@
 [submodule "module1"]
-path = ../denemeSubModule1
+path = denemeSubModule1
 url = git@github.com:atabeg1/denemeSubModule1.git
 
 [submodule "module2"]
-path = ../denemeSubModule2
+path = denemeSubModule2
 url = git@github.com:atabeg1/denemeSubModule2.git
 
 [submodule "module3"]
-path = ../denemeSubModule3
+path = denemeSubModule3
 url = git@github.com:atabeg1/denemeSubModule3.git
